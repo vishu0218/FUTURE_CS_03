@@ -1,0 +1,33 @@
+API Name: JSONPlaceholder
+
+API Type:
+REST API
+
+Base URL:
+https://jsonplaceholder.typicode.com
+
+Authentication:
+No authentication required.
+
+Resources Available:
+Posts
+Comments
+Albums
+Photos
+Todos
+Users
+
+Supported Methods:
+GET
+POST
+PUT
+PATCH
+DELETE
+
+Initial Security Observations:
+1. No authentication mechanism observed.
+2. User data contains email, phone, and address information.
+3. Resources are publicly accessible.
+
+
+
